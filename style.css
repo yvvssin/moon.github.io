@@ -1,0 +1,21 @@
+body {
+    background-image: url(img/stars.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.box {
+    margin-top: 50vh;
+}
+.select {
+    padding: 1vh 0.5vw 1vh 1vw;
+}
+.image-container, .dselect {
+    text-align: center;
+    margin: 4%;
+}
+h1 {
+    color: rgb(5, 14, 85) !important;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    font-weight: bold !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
